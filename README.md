@@ -6,8 +6,8 @@
 
 **Deliverables:**
 
-* [1.1 UX Research: Collecting and anylising data](https://github.com/OrdumLTD/UX/issues/1) 
-* [1.2 UX Report: User Journeys and information architecture](https://github.com/OrdumLTD/UX/issues/2) 
+* [1.1 UX Research | Collecting and anylising data](https://github.com/OrdumLTD/UX/issues/1) 
+* [1.2 UX Report | User Journeys and information architecture](https://github.com/OrdumLTD/UX/issues/2) 
 * [1.3 UI Design | wireframes](https://github.com/OrdumLTD/UX/issues/3)
 * [1.4 UX Report | Evaluative & Formative Research](https://github.com/OrdumLTD/UX/issues/3)
 
