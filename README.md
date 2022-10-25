@@ -1,6 +1,9 @@
 # UX
 
 **Deadline:** <br/>
+
+---
+
 **Deliverables:**
 
 * [1.1 UX Research: Collecting and anylising data](https://github.com/OrdumLTD/UX/issues/1) 
@@ -10,7 +13,11 @@
 
 ---
 
-Please refrain to the “issues” section to track outstanding, closed and active tasks for each deliverable. 
+**Cost Breakdown:**
+
+---
+
+Please refrain to the “issues” section(each linked above) to track outstanding, closed and active tasks for each deliverable. 
  
 ## **1.1 UX Research**
 
