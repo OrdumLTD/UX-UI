@@ -3,8 +3,7 @@
 **Deadline:** <br/>
 **Deliverables:**
 
-* 1.1 UX Research: Written Report 
-* 1.1 UX Research: Research results 
+* 1.1 UX Research: Collecting and anylising data 
 * 1.2 UX Report: User Journeys 
 * 1.2 UX Report: Information Architecture 
 * 1.3 UI Design | wireframes 
