@@ -1,6 +1,6 @@
 # UX
 
-**Deadline:** <br/>
+**[Duration and cost breakdown]()** <br/>
 
 ---
 
@@ -10,10 +10,6 @@
 * [1.2 UX Report | User Journeys and Information Architecture](https://github.com/OrdumLTD/UX/issues/2) 
 * [1.3 UI Design | Wireframes](https://github.com/OrdumLTD/UX/issues/3)
 * [1.4 UX Report | Evaluative & Formative Research](https://github.com/OrdumLTD/UX/issues/3)
-
----
-
-**Cost Breakdown:**
 
 ---
 
