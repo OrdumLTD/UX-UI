@@ -41,9 +41,19 @@ Please refrain to the “issues” section(each linked above) to track outstandi
 ## **1.2. UX Report and recommendations for UI**
 
 - **Goals:**
-    - define user journey
     - define information architecture
-    
+ 
+- **What we are researching:**
+    - Frontend stack for a better user experience on the blockchain
+    - DID and interaction for different parties over multiple parachains
+    - Tools for demos
+    - Comprehensive and intuitive UI
+
+
+- **Methodologies(Generative Research):**
+    - Qualitative: Analysing similar projects
+    - Quantitative: Testing response times and build times using different frameworks, libraries and tools
+    - Qualitative: User interviews
 
 ## 1.3. **UI Design: Wireframes** 
 
