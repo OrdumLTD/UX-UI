@@ -1,6 +1,6 @@
 # UX/UI
 
-**[Duration and cost breakdown]()** <br/>
+**[Duration and cost breakdown](https://docs.google.com/spreadsheets/d/15ZNENezp4xWhywCx7KhBIXJbb-3VBKob4pWAHVWRpCw/edit?usp=sharing)** <br/>
 
 ---
 
